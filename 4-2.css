@@ -1,0 +1,53 @@
+*{
+
+    margin:0;
+    padding: 0;
+}
+#main{
+    border: solid 3px;
+    margin: 0 auto;
+}
+
+
+header{
+           background-color: antiquewhite;
+           padding: 2%;
+           text-align: center;
+}
+nav{ background-color: grey;
+    padding: 1%;
+    margin-top: inherit;
+    text-align: center;
+}
+nav ul li {
+    padding: 1% ;
+    display: inline;
+    }
+
+#submain{
+    width: 70%;
+    float: left;
+}
+aside{
+    width: 30%;
+    float: left;
+
+}
+figcaption {
+    display: inline;
+}
+
+section figure {
+    display: inline-block;
+}
+footer{
+    background-color: pink;
+    padding: 0px;
+    text-align: center;
+
+
+}
+footer ul li{ display: inline;
+              padding: 5%;
+
+}
